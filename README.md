@@ -1,6 +1,6 @@
 # google_sign_in
 
-A new Flutter application.
+A new Flutter application to demostrate Google Sign-In using Firebase.
 
 ## Getting Started
 
